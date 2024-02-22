@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maoritz/portfolio.git"
+  },
+  "keywords": [],
+  "author": "Maor Attias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maoritz/portfolio/issues"
+  },
+  "homepage": "https://github.com/maoritz/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
